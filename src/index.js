@@ -1,4 +1,5 @@
-import React from 'react';
+/* STEP 1-Import the useState hook*/
+import React,  from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';

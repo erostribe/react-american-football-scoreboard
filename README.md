@@ -23,7 +23,7 @@ In this project, you build an app that diplays a scoreboard for an american foot
 - [*] Using the same command tool (yarn or npm) start up the app using `yarn start` or `npm start`
 - [*] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [*] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [*] Push commits: git push origin `<firstName-lastName>`.
 
 Follow these steps for completing your project.
 
@@ -40,8 +40,8 @@ Follow these steps for completing your project.
 
 ### STEP 1 & 2 - Adding Team Scores to the Component's State
 
-- [ ] Import the `useState` hook
-- [ ] Set up the state values for the Lions team score using the state hook
+- [*] Import the `useState` hook
+- [*] Set up the state values for the Lions team score using the state hook
 
 ```js
 const [value, setValue] = useState(); // Give these better names, and decide whether you want to pass an initial score into the state hook as the initialValue
